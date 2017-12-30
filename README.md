@@ -5,7 +5,8 @@
 Performed binary classification on genetic data using the K-nearest neighbors and Naive Bayes algorithms. Predicted presence of health defect given the presence of genetic markers.
 
 *Performance*
-K-nearest Neighbors:
+
+A. K-nearest Neighbors:
 Dataset 1:
 1. Accuracy:	0.93972027972
 2. Precision:	0.96466507177 
@@ -33,7 +34,7 @@ Dataset 2:
 
 *Run instructions*
 
-K-Nearest Neighbors:
+A. K-Nearest Neighbors:
 
 To run Naïve Bayes:
 
@@ -51,9 +52,6 @@ Python 3
 
 Requirement:
 The datasets should be in the same folder as the naivebayes.py file
-
-
-Naive Bayes:
 
 To run KNN:
 
