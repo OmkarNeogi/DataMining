@@ -1,3 +1,5 @@
+# DataMining
+
 **Classification**
 
 Performed binary classification on genetic data using the K-nearest neighbors and Naive Bayes algorithms. Predicted presence of health defect given the presence of genetic markers.
@@ -69,4 +71,3 @@ Python 3
 
 Requirement:
 The datasets should be in the same folder as the naivebayes.py file
-# DataMining
